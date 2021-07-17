@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">OrientUp</string>
+    <string name="upload_data_to_website">Upload data to web</string>
+    <string name="insert_competition_id_text">Insert competition ID:</string>
+    <string name="upload_button_text">Upload</string>
+    <string name="upload_result_text">Uploaded</string>
+    <string name="select_xml_button_text">Select XML File</string>
+    <string name="file_loaded_text">File not loaded</string>
+    <string name="start_service_button_text">Start service</string>
+    <string name="service_information_text">Check this if you want to run the app as a service. File name must be
+        results.xml and app must remain open.
+    </string>
+    <string name="stop_service_button_text">Stop service</string>
+    <string name="run_as_service_switch_text">Run as service</string>
+    <string name="select_folder_text">Select Folder To Watch</string>
+    <string name="folder_not_loaded_text">Folder not loaded</string>
+    <string name="select_xml_text">Select XML File</string>
+    <string name="file_not_loaded_text">File not loaded</string>
+</resources>
